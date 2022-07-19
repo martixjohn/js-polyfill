@@ -1,0 +1,17 @@
+{
+  "name": "js-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "module": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2",
+    "webpack-cli": "^4.10.0"
+  }
+}

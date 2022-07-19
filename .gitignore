@@ -1,3 +1,6 @@
+learning/
+webpack.config.js
+.gitignore
 # Logs
 logs
 *.log
